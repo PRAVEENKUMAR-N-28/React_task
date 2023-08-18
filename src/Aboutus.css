@@ -1,0 +1,31 @@
+h3{
+    text-align: center;
+    margin: 20px;
+    font-size: 1.5rem;
+
+}
+.aboutour{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+.contine{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: 650px;
+    padding: 2rem;
+    border-radius: 10px;
+    text-align: center;
+    color: #AA336A;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.aboutus{
+    font-size: 20px;
+}

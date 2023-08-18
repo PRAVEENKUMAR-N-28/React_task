@@ -1,0 +1,19 @@
+.dislay{
+   
+}
+
+.img1{
+    height: 650px;
+    width: 100%;
+   
+   
+    
+}
+
+.word{
+   display: flex;
+   justify-content: center;
+   font-size: 40px;
+   color: #AA336A;
+   font-weight: bolder;
+}

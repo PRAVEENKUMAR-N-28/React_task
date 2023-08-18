@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    
+}
+
+header{
+    /* position: fixed; */
+    top: 0px; left: 0px; right: 0px;
+    background: white;
+    padding: 1rem 9%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    z-index: 1000;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+    font-size: 1rem;
+
+}
+
+.flogo{
+    color: #AA336A;
+}
+
+header .navi a {
+    font-size: 1rem;
+    padding:0  1rem;
+    color: black;
+}
+
+header .navi a:hover{
+    color: #AA336A;
+}
+
+header span{
+    font-size: 30px;
+    color: #AA336A;
+}
+.cart{
+   
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
